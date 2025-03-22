@@ -55,8 +55,8 @@ void enCryption(string text, int key) {
 int main() {
     string text = "I like apple"; 
     int key = 12;                
-    enCryption(text, key);
-    deCryption(" U xuwq mbbxq");
+    // enCryption(text, key);
+    deCryption(" PAPZYHPUPUN");//key =7 it is raning
 
     return 0;
 }
